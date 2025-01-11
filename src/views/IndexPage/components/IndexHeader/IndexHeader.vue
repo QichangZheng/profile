@@ -17,7 +17,7 @@ function changeItems() {
 <template>
 	<nav class="index-header-container">
 		<a href="#prod" class="index-header-logo" @click="changeIndex(0)"
-			>PiaoChen</a
+			>Qichang Zheng</a
 		>
 		<div class="index-header-all">
 			<a
